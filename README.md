@@ -4,14 +4,12 @@ This is a fashion recommender system built using Python and Streamlit.
 
 ## Overview
 
-The Fashion Recommender System suggests clothing items to users based on their preferences, browsing history, and other relevant factors. It aims to enhance the user experience by providing personalized recommendations tailored to individual tastes.
+The Fashion Recommender System suggests clothing items to users based on the uploaded image and other relevant factors. It aims to enhance the user experience by providing personalized recommendations tailored to individual tastes.
 
 ## Features
 
 - User Authentication: Users can create accounts, log in, and update their profiles.
 - Recommendation Engine: Utilizes machine learning algorithms to recommend clothing items based on user preferences.
-- Browsing History: Tracks users' browsing history to improve recommendations over time.
-- User Feedback: Allows users to provide feedback on recommended items to further refine the system's suggestions.
 - Interactive Interface: Built using Streamlit to create an intuitive and user-friendly experience.
 
 ## Requirements
