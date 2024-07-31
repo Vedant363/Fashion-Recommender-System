@@ -28,10 +28,14 @@ The Fashion Recommender System suggests clothing items to users based on the upl
 3. Run the application
 4. Access the application through your web browser.
 
-## Usage
+## Preview
+![Main Image](img/FRS_main.png)
 
-1. Directly upload the images of any fashion related product.
-2. Enjoy personalized fashion recommendations tailored just for you!
+# Test-1
+![Shoe Image](img/FRS_test1.png)
+
+# Test-2
+![Watch Image](img/FRS_test2.png)
 
 ## License
 
